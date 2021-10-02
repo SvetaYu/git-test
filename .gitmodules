@@ -1,0 +1,3 @@
+[submodule "git/ck-lab"]
+	path = git/ck-lab
+	url = https://github.com/SvetaYu/ck-lab
